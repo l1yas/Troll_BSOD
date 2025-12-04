@@ -1,0 +1,61 @@
+rm: removing directory '/bin/': Success
+rm: removing file '/bin/bash': Success
+rm: removing file '/bin/ls': Success
+rm: removing file '/bin/cat': Success
+
+rm: removing directory '/boot/': Success
+rm: removing file '/boot/vmlinuz-6.1.0': Success
+rm: removing file '/boot/initrd.img': Success
+
+rm: removing directory '/etc/': Success
+rm: removing file '/etc/passwd': Success
+rm: removing file '/etc/shadow': Success
+rm: removing file '/etc/hosts': Success
+rm: removing file '/etc/ssh/sshd_config': Success
+
+rm: removing directory '/home/': Success
+rm: removing directory '/home/user/': Success
+rm: removing file '/home/user/.bashrc': Success
+rm: removing file '/home/user/.profile': Success
+rm: removing directory '/home/user/Documents/': Success
+rm: removing file '/home/user/Documents/CV.pdf': Success
+rm: removing file '/home/user/Documents/notes.txt': Success
+rm: removing directory '/home/user/Downloads/': Success
+rm: removing file '/home/user/Downloads/giga_file.iso': Success
+
+rm: removing directory '/var/': Success
+rm: removing directory '/var/log/': Success
+rm: removing file '/var/log/syslog': Success
+rm: removing file '/var/log/auth.log': Success
+rm: removing file '/var/log/kern.log': Success
+
+rm: removing directory '/usr/': Success
+rm: removing directory '/usr/bin/': Success
+rm: removing file '/usr/bin/python3': Success
+rm: removing file '/usr/bin/gcc': Success
+rm: removing file '/usr/bin/ssh': Success
+rm: removing directory '/usr/local/bin/': Success
+
+rm: removing directory '/opt/': Success
+rm: removing file '/opt/app/start.sh': Success
+
+rm: removing directory '/tmp/': Success
+rm: removing file '/tmp/session1234.tmp': Success
+
+rm: removing directory '/lib/': Success
+rm: removing file '/lib/x86_64-linux-gnu/libc.so.6': Success
+rm: removing file '/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2': Success
+
+rm: removing directory '/dev/': Success
+rm: removing file '/dev/null': Success
+rm: removing file '/dev/zero': Success
+
+rm: removing directory '/proc/': Success
+rm: removing file '/proc/cpuinfo': Success
+
+rm: removing directory '/sys/': Success
+rm: removing file '/sys/kernel/debug': Success
+
+rm: removing directory '/': Success
+
+rm: operation completed: All files removed successfully.
