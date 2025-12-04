@@ -29,7 +29,11 @@ calculator()
 root = Tk()
 root.withdraw()
 messagebox.showwarning("Brace For Impact", "Deleting System 32")
-
+with open('fakelogs.txt', 'r') as file:
+    for line in file:
+        print(line.strip())
+        time.sleep(0.01)
+time.sleep(2)
 show_bsod()
 
 root.mainloop()
